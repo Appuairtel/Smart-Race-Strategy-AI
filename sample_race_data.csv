@@ -1,1 +1,7 @@
 
+lap,driver,tyre,tyre_age,laptime,weather,position
+1,Driver A,Soft,1,92.4,Dry,4
+2,Driver A,Soft,2,92.9,Dry,4
+3,Driver A,Soft,3,93.6,Dry,5
+4,Driver A,Soft,4,94.5,Dry,5
+5,Driver A,Soft,5,95.8,Dry,6
